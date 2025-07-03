@@ -1,7 +1,7 @@
 # DEEPFACE
 # Cyber Fast Detector
 
-Deteksi wajah + emosi + umur + kontrol gesture tangan untuk play/pause YouTube.  
+Deteksi wajah + emosi + umur + kontrol gesture tangan untuk play/pause .  
 Cocok untuk sistem kontrol cyber, AI demo, atau proyek interaktif.
 
 ## 🚀 Fitur
