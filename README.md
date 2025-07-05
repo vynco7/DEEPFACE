@@ -57,13 +57,13 @@ deepface
 
 ✅ File struktur final di folder home
 
-/home/finnnz
-│
-├── kameradeepface.py        # script utama
-├── README.md                # penjelasan cara pakai
-├── requirements.txt         # daftar modul
-├── myenv/                   # virtual environment
-└── (file .py lain jika ada)
+-/home/finnnz
+-│
+-├── kameradeepface.py        # script utama
+-├── README.md                # penjelasan cara pakai
+-├── requirements.txt         # daftar modul
+-├── myenv/                   # virtual environment
+-└── (file .py lain jika ada)
 
 💣 Langkah terakhir (setelah pindah)
 
